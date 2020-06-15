@@ -1,3 +1,5 @@
+//For more information on how to calculate a phyllotaxis sequence by The Coding Train: https://www.youtube.com/watch?v=KWoJgHFYWxY
+
 class Phylloid {
   int n = 0;
   int nMax;

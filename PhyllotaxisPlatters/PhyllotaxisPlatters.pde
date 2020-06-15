@@ -1,9 +1,14 @@
 import processing.svg.*;
 
 float z = 0;
+
+//Change how quickly to scroll through the z space in the phylloid object.
 float zInc = 2;
 
+
 int sliceCount = 0;
+
+//Maximum amount of SVG slices
 int maxSlices = 30;
 
 void setup() {
